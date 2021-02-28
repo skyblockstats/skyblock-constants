@@ -1,4 +1,5 @@
 [
- "deaths",
- "kills"
+  "deaths",
+  "kills",
+  "deaths_void"
 ]
