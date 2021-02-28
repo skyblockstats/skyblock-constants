@@ -284,5 +284,6 @@
   "kills_ice_walker",
   "kills_goblin_weakling_melee",
   "kills_goblin_knife_thrower",
-  "kills_crystal_sentry"
+  "kills_crystal_sentry",
+  "deaths_lapis_zombie"
 ]
