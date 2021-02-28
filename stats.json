@@ -1,5 +1,16 @@
 [
   "deaths",
   "kills",
-  "deaths_void"
+  "deaths_void",
+  {
+    "kills": 1,
+    "kills_zombie": 1,
+    "deaths": 18,
+    "deaths_fall": 1,
+    "deaths_void": 8,
+    "deaths_zombie": 4,
+    "deaths_blaze": 3,
+    "highest_critical_damage": 10.5,
+    "deaths_player": 2
+  }
 ]
