@@ -1,1 +1,19 @@
-[]
+[
+  "auction_house",
+  "bank",
+  "colosseum",
+  "deep_caverns",
+  "deep_caverns_room_1",
+  "deep_caverns_room_2",
+  "dynamic_portal_island",
+  "farm",
+  "floating_islands_1",
+  "floating_islands_2",
+  "floating_islands_5",
+  "flower_house",
+  "forest",
+  "gold_mine",
+  "mine",
+  "the_barn",
+  "village"
+]
