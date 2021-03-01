@@ -1,4 +1,5 @@
 [
+  "aristocrat_passage",
   "auction_house",
   "bank",
   "bazaar_alley",
@@ -58,6 +59,7 @@
   "lava_springs",
   "library",
   "mine",
+  "miners_guild",
   "mountain",
   "mushroom_desert",
   "palace_bridge",
