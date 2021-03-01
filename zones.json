@@ -5,12 +5,15 @@
   "blacksmith",
   "blazing_fortress",
   "builders_house",
+  "canvas_room",
+  "carts_crafting_co",
   "catacombs_entrance",
   "cliffside_veins",
   "colosseum",
   "colosseum_arena",
   "community_center",
   "danger",
+  "dark_auction",
   "deep_caverns",
   "deep_caverns_room_1",
   "deep_caverns_room_2",
@@ -47,6 +50,7 @@
   "goblin_burrows",
   "gold_mine",
   "grand_library",
+  "hanging_court",
   "hero_barracks",
   "high_level",
   "ice_pond",
@@ -70,5 +74,6 @@
   "village",
   "wilderness",
   "winter_island",
-  "wizard_tower"
+  "wizard_tower",
+  "wolf_den"
 ]
