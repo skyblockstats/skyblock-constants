@@ -1,8 +1,10 @@
 [
   "auction_house",
   "bank",
+  "bazaar_alley",
   "blazing_fortress",
   "colosseum",
+  "community_center",
   "danger",
   "deep_caverns",
   "deep_caverns_room_1",
@@ -26,6 +28,7 @@
   "library",
   "mine",
   "mountain",
+  "mushroom_desert",
   "ruins",
   "spiders_den",
   "the_barn",
