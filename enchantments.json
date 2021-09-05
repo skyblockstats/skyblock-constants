@@ -1,5 +1,6 @@
 [
   "aiming",
+  "aqua_affinity",
   "chance",
   "cleave",
   "critical",
@@ -23,6 +24,7 @@
   "power",
   "protection",
   "punch",
+  "respiration",
   "scavenger",
   "smite",
   "snipe",
