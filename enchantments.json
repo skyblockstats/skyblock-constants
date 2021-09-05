@@ -1,8 +1,25 @@
 [
+  "cleave",
+  "critical",
+  "execute",
+  "experience",
+  "fire_aspect",
+  "first_strike",
+  "giant_killer",
   "growth",
+  "impaling",
+  "lethality",
+  "looting",
+  "luck",
   "protection",
-  "rejuvenate",
+  "scavenger",
+  "smite",
+  "syphon",
+  "telekinesis",
   "thorns",
   "ultimate_last_stand",
-  "ultimate_no_pain_no_gain"
+  "ultimate_no_pain_no_gain",
+  "ultimate_wise",
+  "vampirism",
+  "venomous"
 ]
