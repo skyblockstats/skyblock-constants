@@ -1,5 +1,6 @@
 [
   "aiming",
+  "aqua_affinity",
   "chance",
   "cleave",
   "critical",
@@ -28,6 +29,7 @@
   "protection",
   "punch",
   "rejuvenate",
+  "respiration",
   "scavenger",
   "sharpness",
   "smelting_touch",
