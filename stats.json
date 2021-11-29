@@ -482,6 +482,7 @@
   "gifts_received",
   "highest_crit_damage",
   "highest_critical_damage",
+  "highest_damage",
   "items_fished",
   "items_fished_large_treasure",
   "items_fished_normal",
