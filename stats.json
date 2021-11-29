@@ -918,6 +918,7 @@
   "pet_milestone_ores_mined",
   "pet_milestone_sea_creatures_killed",
   "pumpkin_launcher_count",
+  "sea_creature_kills",
   "shredder_bait",
   "shredder_fished",
   "total_pet_exp_gained"
