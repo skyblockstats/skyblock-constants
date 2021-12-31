@@ -19,7 +19,7 @@
     null,
     null,
     null,
-    25000
+    20000
   ],
   "spruce_log": [
     null,
@@ -30,7 +30,7 @@
     null,
     null,
     null,
-    50000
+    500
   ],
   "jungle_log": [
     null,
@@ -41,7 +41,7 @@
     null,
     null,
     null,
-    20000
+    3000
   ],
   "acacia_log": [
     null,
@@ -88,7 +88,7 @@
     null,
     null,
     null,
-    30000,
+    15000,
     75000
   ],
   "coal": [
@@ -148,13 +148,13 @@
     null,
     null,
     null,
-    1000000
+    800000
   ],
   "red_mushroom": [
     null,
     null,
     null,
-    1000,
+    250,
     2500
   ],
   "lapis_lazuli": [
@@ -196,7 +196,7 @@
   "slime_ball": [
     null,
     null,
-    200
+    400
   ],
   "rotten_flesh": [
     null,
@@ -237,7 +237,7 @@
     null,
     null,
     null,
-    150000,
+    100000,
     100000
   ],
   "gunpowder": [
@@ -273,7 +273,7 @@
   ],
   "melon_slice": [
     null,
-    500
+    250
   ],
   "potato": [
     null,
@@ -352,7 +352,7 @@
   "tropical_fish": [
     null,
     null,
-    9000,
+    6000,
     null,
     null,
     400
@@ -362,7 +362,7 @@
     null,
     null,
     null,
-    250
+    500
   ],
   "pufferfish": [
     null,
@@ -440,25 +440,5 @@
   "ice": [
     null,
     200
-  ],
-  "mithril_ore": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    150000
-  ],
-  "gemstone_collection": [
-    null,
-    null,
-    null,
-    null,
-    10000
-  ],
-  "hard_stone": [
-    null,
-    null,
-    15500
   ]
 }
