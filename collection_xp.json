@@ -1,1 +1,444 @@
-{}
+{
+  "oak_log": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    45000
+  ],
+  "birch_log": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    25000
+  ],
+  "spruce_log": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    50000
+  ],
+  "jungle_log": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    20000
+  ],
+  "acacia_log": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    20000
+  ],
+  "dark_oak_log": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    45000
+  ],
+  "string": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    6000
+  ],
+  "spider_eye": [
+    null,
+    null,
+    null,
+    null,
+    2500
+  ],
+  "cobblestone": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    75000
+  ],
+  "coal": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    300000
+  ],
+  "iron_ingot": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    10000
+  ],
+  "gold_ingot": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    100000
+  ],
+  "bone": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    6000
+  ],
+  "wheat_seeds": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    9000
+  ],
+  "diamond": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    1400000
+  ],
+  "red_mushroom": [
+    null,
+    null,
+    null,
+    null,
+    2500
+  ],
+  "lapis_lazuli": [
+    null,
+    null,
+    null,
+    null,
+    6000
+  ],
+  "cod": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    2500
+  ],
+  "salmon": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    1000
+  ],
+  "clay_ball": [
+    null,
+    null,
+    null,
+    null,
+    1400000
+  ],
+  "ink_sac": [
+    null,
+    null,
+    100
+  ],
+  "slime_ball": [
+    null,
+    null,
+    800
+  ],
+  "rotten_flesh": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    9000
+  ],
+  "redstone": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    1400000
+  ],
+  "ender_pearl": [
+    null,
+    null,
+    null,
+    null,
+    5000
+  ],
+  "obsidian": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    100000
+  ],
+  "gunpowder": [
+    40
+  ],
+  "wheat": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    15500
+  ],
+  "carrot": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    30000
+  ],
+  "pumpkin": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    10000
+  ],
+  "melon_slice": [
+    null,
+    500
+  ],
+  "potato": [
+    null,
+    null,
+    1000
+  ],
+  "porkchop": [
+    null,
+    150
+  ],
+  "leather": [
+    null,
+    null,
+    250
+  ],
+  "feather": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    40000
+  ],
+  "chicken": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    40000
+  ],
+  "sugar_cane": [
+    null,
+    null,
+    null,
+    500
+  ],
+  "magma_cream": [
+    null,
+    null,
+    null,
+    null,
+    2000
+  ],
+  "ghast_tear": [
+    0
+  ],
+  "cactus": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    20000
+  ],
+  "sand": [
+    null,
+    null,
+    250
+  ],
+  "end_stone": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    20000
+  ],
+  "tropical_fish": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    400
+  ],
+  "lily_pad": [
+    null,
+    null,
+    null,
+    null,
+    500
+  ],
+  "pufferfish": [
+    null,
+    null,
+    null,
+    null,
+    500
+  ],
+  "prismarine_crystals": [
+    null,
+    null,
+    null,
+    null,
+    250
+  ],
+  "prismarine_shard": [
+    null,
+    null,
+    null,
+    null,
+    250
+  ],
+  "blaze_rod": [
+    null,
+    null,
+    500
+  ],
+  "cocoa_beans": [
+    150
+  ],
+  "rabbit": [
+    50
+  ],
+  "nether_wart": [
+    null,
+    null,
+    250
+  ],
+  "glowstone_dust": [
+    null,
+    null,
+    null,
+    1500
+  ],
+  "netherrack": [
+    100
+  ],
+  "sponge": [
+    null,
+    null,
+    null,
+    250
+  ],
+  "gravel": [
+    null,
+    null,
+    null,
+    1500
+  ],
+  "emerald": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    100000
+  ],
+  "quartz": [],
+  "mutton": [
+    50
+  ],
+  "ice": [
+    null,
+    200
+  ]
+}
