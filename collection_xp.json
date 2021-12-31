@@ -88,7 +88,7 @@
     null,
     null,
     null,
-    null,
+    30000,
     75000
   ],
   "coal": [
@@ -148,13 +148,13 @@
     null,
     null,
     null,
-    1400000
+    1000000
   ],
   "red_mushroom": [
     null,
     null,
     null,
-    null,
+    1000,
     2500
   ],
   "lapis_lazuli": [
@@ -186,7 +186,7 @@
     null,
     null,
     null,
-    1400000
+    800000
   ],
   "ink_sac": [
     null,
@@ -196,7 +196,7 @@
   "slime_ball": [
     null,
     null,
-    800
+    200
   ],
   "rotten_flesh": [
     null,
@@ -237,7 +237,7 @@
     null,
     null,
     null,
-    null,
+    150000,
     100000
   ],
   "gunpowder": [
@@ -336,7 +336,7 @@
   ],
   "sand": [
     null,
-    null,
+    50,
     250
   ],
   "end_stone": [
@@ -352,7 +352,7 @@
   "tropical_fish": [
     null,
     null,
-    null,
+    9000,
     null,
     null,
     400
@@ -362,7 +362,7 @@
     null,
     null,
     null,
-    500
+    250
   ],
   "pufferfish": [
     null,
@@ -440,5 +440,25 @@
   "ice": [
     null,
     200
+  ],
+  "mithril_ore": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    150000
+  ],
+  "gemstone_collection": [
+    null,
+    null,
+    null,
+    null,
+    10000
+  ],
+  "hard_stone": [
+    null,
+    null,
+    15500
   ]
 }
