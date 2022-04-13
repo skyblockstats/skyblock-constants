@@ -88,7 +88,7 @@
     "requiredProgress": 0
   },
   "collect_birch_logs": {
-    "quest": null,
+    "quest": "talk_to_lazy_miner",
     "requiredProgress": 64
   },
   "collect_dark_oak_logs": {
