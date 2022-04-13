@@ -164,7 +164,7 @@
     "requiredProgress": 0
   },
   "talk_to_lapis_miner": {
-    "quest": null,
+    "quest": "talk_to_lapis_miner",
     "requiredProgress": 0
   },
   "talk_to_lift_operator": {
@@ -380,7 +380,7 @@
     "requiredProgress": 0
   },
   "talk_to_frosty": {
-    "quest": null,
+    "quest": "talk_to_gulliver_1",
     "requiredProgress": 0
   },
   "talk_to_gulliver_1": {
@@ -404,7 +404,7 @@
     "requiredProgress": 0
   },
   "give_pickaxe_lapis_miner": {
-    "quest": null,
+    "quest": "talk_to_lapis_miner",
     "requiredProgress": 0
   },
   "kill_danger_mobs": {
@@ -1472,6 +1472,110 @@
     "requiredProgress": 0
   },
   "fetchur-24-0": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-2-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-3-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-4-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-7-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-8-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-9-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-10-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-11-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-12-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-13-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-14-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-15-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-16-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-17-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-18-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-19-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-20-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-21-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-22-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-23-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-24-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-25-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-26-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-27-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-28-4": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-30-4": {
     "quest": null,
     "requiredProgress": 0
   }
