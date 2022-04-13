@@ -44,7 +44,7 @@
     "requiredProgress": 0
   },
   "talk_to_banker": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "talk_to_fairy": {
@@ -116,7 +116,7 @@
     "requiredProgress": 0
   },
   "increase_mining_skill_5": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "talk_to_telekinesis_applier": {
@@ -160,7 +160,7 @@
     "requiredProgress": 0
   },
   "warp_deep_caverns": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "talk_to_lapis_miner": {
@@ -168,31 +168,31 @@
     "requiredProgress": 0
   },
   "talk_to_lift_operator": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "reach_lapis_quarry": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "collect_lapis": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "reach_pigmens_den": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "collect_redstone": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "reach_slimehill": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "collect_emerald": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "reach_diamond_reserve": {
@@ -436,7 +436,7 @@
     "requiredProgress": 0
   },
   "craft_wheat_minion": {
-    "quest": null,
+    "quest": "talk_to_farmhand_1",
     "requiredProgress": 1
   },
   "talk_to_farmhand_2": {
