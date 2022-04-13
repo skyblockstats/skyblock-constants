@@ -204,7 +204,7 @@
     "requiredProgress": 0
   },
   "reach_obsidian_sanctuary": {
-    "quest": null,
+    "quest": "increase_mining_skill_5",
     "requiredProgress": 0
   },
   "collect_obsidian": {
@@ -212,7 +212,7 @@
     "requiredProgress": 0
   },
   "talk_to_farmhand_1": {
-    "quest": null,
+    "quest": "increase_mining_skill_5",
     "requiredProgress": 0
   },
   "increase_farming_skill_5": {
@@ -440,15 +440,15 @@
     "requiredProgress": 1
   },
   "talk_to_farmhand_2": {
-    "quest": null,
+    "quest": "talk_to_farmhand_1",
     "requiredProgress": 0
   },
   "collect_farming_resources": {
-    "quest": null,
+    "quest": "talk_to_farmhand_1",
     "requiredProgress": 0
   },
   "collect_farm_animal_resources": {
-    "quest": null,
+    "quest": "talk_to_farmhand_1",
     "requiredProgress": 0
   },
   "collect_nether_resources_2": {
