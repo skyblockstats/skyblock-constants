@@ -4,11 +4,11 @@
     "requiredProgress": 1
   },
   "talk_to_guide": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "public_island": {
-    "quest": null,
+    "quest": "collect_log",
     "requiredProgress": 0
   },
   "explore_hub": {
@@ -24,7 +24,7 @@
     "requiredProgress": 0
   },
   "talk_to_farmer": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "talk_to_blacksmith": {
@@ -32,7 +32,7 @@
     "requiredProgress": 0
   },
   "talk_to_lumberjack": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "talk_to_event_master": {
@@ -40,7 +40,7 @@
     "requiredProgress": 0
   },
   "talk_to_auction_master": {
-    "quest": null,
+    "quest": "increase_mining_skill_5",
     "requiredProgress": 0
   },
   "talk_to_banker": {
@@ -52,15 +52,15 @@
     "requiredProgress": 0
   },
   "talk_to_fisherman_1": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "talk_to_carpenter": {
-    "quest": null,
+    "quest": "talk_to_carpenter",
     "requiredProgress": 0
   },
   "paint_canvas": {
-    "quest": null,
+    "quest": "talk_to_carpenter",
     "requiredProgress": 0
   },
   "craft_workbench": {
@@ -68,15 +68,15 @@
     "requiredProgress": 1
   },
   "chop_tree": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 10
   },
   "talk_to_lumberjack_2": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "increase_foraging_skill": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "warp_foraging_islands": {
@@ -136,7 +136,7 @@
     "requiredProgress": 0
   },
   "deposit_coins": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "enchant_item": {
@@ -156,7 +156,7 @@
     "requiredProgress": 0
   },
   "give_fairy_souls": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 0
   },
   "warp_deep_caverns": {
@@ -208,7 +208,7 @@
     "requiredProgress": 0
   },
   "collect_obsidian": {
-    "quest": null,
+    "quest": "increase_mining_skill_5",
     "requiredProgress": 0
   },
   "talk_to_farmhand_1": {
@@ -224,63 +224,63 @@
     "requiredProgress": 0
   },
   "increase_combat_skill_5": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 0
   },
   "talk_to_rick": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "warp_the_end": {
-    "quest": null,
+    "quest": "talk_to_carpenter",
     "requiredProgress": 0
   },
   "warp_blazing_fortress": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 0
   },
   "talk_to_elle": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "collect_wheat": {
-    "quest": null,
-    "requiredProgress": 17
+    "quest": "talk_to_farmer",
+    "requiredProgress": 10
   },
   "talk_to_farmer_2": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "increase_farming_skill": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "warp_barn_island": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "collect_clay": {
-    "quest": null,
-    "requiredProgress": 6
+    "quest": "talk_to_farmer",
+    "requiredProgress": 5
   },
   "talk_to_fisherman_2": {
-    "quest": null,
+    "quest": "talk_to_farmer",
     "requiredProgress": 0
   },
   "collect_nether_resources": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "talk_to_artist_1": {
-    "quest": null,
+    "quest": "talk_to_artist_1",
     "requiredProgress": 0
   },
   "talk_to_pet_collector": {
-    "quest": null,
+    "quest": "talk_to_carpenter",
     "requiredProgress": 0
   },
   "talk_to_pet_sitter": {
-    "quest": null,
+    "quest": "talk_to_carpenter",
     "requiredProgress": 0
   },
   "collect_farming_resources_2": {
@@ -312,15 +312,15 @@
     "requiredProgress": 0
   },
   "talk_to_gwendolyn": {
-    "quest": null,
+    "quest": "talk_to_gwendolyn",
     "requiredProgress": 0
   },
   "talk_to_braum": {
-    "quest": null,
+    "quest": "talk_to_gwendolyn",
     "requiredProgress": 0
   },
   "visit_greater_mines": {
-    "quest": null,
+    "quest": "talk_to_gwendolyn",
     "requiredProgress": 0
   },
   "talk_to_the_goblin_king": {
@@ -328,7 +328,7 @@
     "requiredProgress": 0
   },
   "kill_automatons": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 100
   },
   "enter_divan_mines": {
@@ -340,7 +340,7 @@
     "requiredProgress": 0
   },
   "mine_ruby": {
-    "quest": null,
+    "quest": "talk_to_gwendolyn",
     "requiredProgress": 15
   },
   "complete_trials_of_jungle_temple": {
@@ -368,7 +368,7 @@
     "requiredProgress": 0
   },
   "talk_to_professor_robot": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "mine_sapphire": {
@@ -388,11 +388,11 @@
     "requiredProgress": 0
   },
   "collect_wool_carpenter": {
-    "quest": null,
+    "quest": "talk_to_carpenter",
     "requiredProgress": 0
   },
   "talk_to_artist_2": {
-    "quest": null,
+    "quest": "talk_to_artist_1",
     "requiredProgress": 0
   },
   "talk_to_guildford_1": {
@@ -452,7 +452,7 @@
     "requiredProgress": 0
   },
   "collect_nether_resources_2": {
-    "quest": null,
+    "quest": "increase_combat_skill_5",
     "requiredProgress": 0
   },
   "collect_farm_animal_resources_2": {
@@ -468,7 +468,7 @@
     "requiredProgress": 0
   },
   "talk_to_end_dealer": {
-    "quest": null,
+    "quest": "talk_to_librarian",
     "requiredProgress": 0
   },
   "complete_the_end_race_1": {
@@ -504,7 +504,7 @@
     "requiredProgress": 0
   },
   "collect_end_stone": {
-    "quest": null,
+    "quest": "talk_to_librarian",
     "requiredProgress": 0
   },
   "reach_dragons_nest": {
@@ -1420,6 +1420,58 @@
     "requiredProgress": 0
   },
   "fetchur-20-1": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-27-3": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_crypt_keeper_1": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_nocturne_1": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_runic_fragments": {
+    "quest": null,
+    "requiredProgress": 65
+  },
+  "talk_to_nocturne_2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_runes": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-15-0": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-16-0": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-17-0": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-27-2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-18-0": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-23-0": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "fetchur-24-0": {
     "quest": null,
     "requiredProgress": 0
   }
