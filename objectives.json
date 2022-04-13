@@ -28,7 +28,7 @@
     "requiredProgress": 0
   },
   "talk_to_blacksmith": {
-    "quest": null,
+    "quest": "talk_to_blacksmith",
     "requiredProgress": 0
   },
   "talk_to_lumberjack": {
@@ -104,7 +104,7 @@
     "requiredProgress": 0
   },
   "mine_coal": {
-    "quest": null,
+    "quest": "talk_to_blacksmith",
     "requiredProgress": 10
   },
   "craft_wood_pickaxe": {
@@ -112,7 +112,7 @@
     "requiredProgress": 1
   },
   "talk_to_lazy_miner": {
-    "quest": null,
+    "quest": "talk_to_lazy_miner",
     "requiredProgress": 0
   },
   "increase_mining_skill_5": {
@@ -124,11 +124,11 @@
     "requiredProgress": 0
   },
   "find_pickaxe": {
-    "quest": null,
+    "quest": "talk_to_lazy_miner",
     "requiredProgress": 0
   },
   "collect_ingots": {
-    "quest": null,
+    "quest": "talk_to_lazy_miner",
     "requiredProgress": 0
   },
   "talk_to_blacksmith_2": {
@@ -341,7 +341,7 @@
   },
   "mine_ruby": {
     "quest": "talk_to_gwendolyn",
-    "requiredProgress": 15
+    "requiredProgress": 10
   },
   "complete_trials_of_jungle_temple": {
     "quest": null,
@@ -372,7 +372,7 @@
     "requiredProgress": 0
   },
   "mine_sapphire": {
-    "quest": null,
+    "quest": "kill_automatons",
     "requiredProgress": 0
   },
   "talk_to_gustave_1": {
@@ -496,11 +496,11 @@
     "requiredProgress": 0
   },
   "complete_the_end_race_4": {
-    "quest": null,
+    "quest": "talk_to_guber_1",
     "requiredProgress": 0
   },
   "talk_to_guber_5": {
-    "quest": null,
+    "quest": "talk_to_guber_1",
     "requiredProgress": 0
   },
   "collect_end_stone": {
