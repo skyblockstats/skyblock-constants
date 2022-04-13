@@ -1,1 +1,282 @@
-{}
+{
+  "collect_log": {
+    "quest": "collect_log",
+    "requiredProgress": 1
+  },
+  "talk_to_guide": {
+    "quest": "collect_log",
+    "requiredProgress": 0
+  },
+  "public_island": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "craft_workbench": {
+    "quest": null,
+    "requiredProgress": 1
+  },
+  "explore_hub": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "explore_village": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_librarian": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_farmer": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_blacksmith": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_lumberjack": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_event_master": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_auction_master": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_banker": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_fairy": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_fisherman_1": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "craft_wood_pickaxe": {
+    "quest": null,
+    "requiredProgress": 1
+  },
+  "collect_wheat": {
+    "quest": null,
+    "requiredProgress": 16
+  },
+  "chop_tree": {
+    "quest": null,
+    "requiredProgress": 10
+  },
+  "talk_to_lumberjack_2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "increase_foraging_skill": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_foraging_islands": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_farmer_2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "increase_farming_skill": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_barn_island": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "enchant_item": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_clay": {
+    "quest": null,
+    "requiredProgress": 5
+  },
+  "increase_foraging_skill_5": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_birch_logs": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_dark_oak_logs": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_lazy_miner": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "increase_mining_skill_5": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "find_pickaxe": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_ingots": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_deep_caverns": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_lapis_miner": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_lift_operator": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "reach_lapis_quarry": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_lapis": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "reach_pigmens_den": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_redstone": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "reach_slimehill": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_carpenter": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_artist_1": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "paint_canvas": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_telekinesis_applier": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "give_pickaxe_lapis_miner": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "give_fairy_souls": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_fisherman_2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "deposit_coins": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "mine_coal": {
+    "quest": null,
+    "requiredProgress": 11
+  },
+  "collect_emerald": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "reach_diamond_reserve": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_diamond": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "reach_obsidian_sanctuary": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "talk_to_blacksmith_2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "increase_mining_skill": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "reforge_item": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_gold_mine": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "increase_combat_skill_5": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "talk_to_rick": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_the_end": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_blazing_fortress": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "talk_to_farmhand_1": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "increase_farming_skill_5": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "craft_wheat_minion": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "warp_mushroom_desert": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "collect_farming_resources_2": {
+    "quest": null,
+    "requiredProgress": 0
+  },
+  "collect_obsidian": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "talk_to_elle": {
+    "quest": "increase_mining_skill_5",
+    "requiredProgress": 0
+  },
+  "collect_nether_resources": {
+    "quest": null,
+    "requiredProgress": 0
+  }
+}
