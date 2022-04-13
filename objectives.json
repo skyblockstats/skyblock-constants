@@ -92,7 +92,7 @@
     "requiredProgress": 64
   },
   "collect_dark_oak_logs": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 64
   },
   "talk_to_charlie_2": {
@@ -299,10 +299,6 @@
     "quest": "talk_to_rhys",
     "requiredProgress": 3
   },
-  "fetchur-25-8": {
-    "quest": null,
-    "requiredProgress": 0
-  },
   "talk_to_archaeologist": {
     "quest": "talk_to_archaeologist",
     "requiredProgress": 0
@@ -408,19 +404,19 @@
     "requiredProgress": 0
   },
   "kill_danger_mobs": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 10
   },
   "talk_to_bartender": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 0
   },
   "increase_combat_skill": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 0
   },
   "warp_spiders_den": {
-    "quest": null,
+    "quest": "explore_hub",
     "requiredProgress": 0
   },
   "talk_to_haymitch": {
@@ -1351,34 +1347,6 @@
     "quest": "talk_to_guildford_1",
     "requiredProgress": 0
   },
-  "fetchur-19-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-22-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-26-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-27-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-28-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-6-1": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-7-1": {
-    "quest": null,
-    "requiredProgress": 0
-  },
   "find_relics": {
     "quest": "talk_to_archaeologist",
     "requiredProgress": 28
@@ -1393,38 +1361,6 @@
   },
   "talk_to_archaeologist_2": {
     "quest": "talk_to_archaeologist",
-    "requiredProgress": 0
-  },
-  "fetchur-19-3": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-20-3": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-11-5": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-5-6": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-21-7": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-22-8": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-20-1": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-27-3": {
-    "quest": null,
     "requiredProgress": 0
   },
   "talk_to_crypt_keeper_1": {
@@ -1444,138 +1380,6 @@
     "requiredProgress": 0
   },
   "collect_runes": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-15-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-16-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-17-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-27-2": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-18-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-23-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-24-0": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-2-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-3-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-4-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-7-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-8-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-9-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-10-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-11-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-12-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-13-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-14-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-15-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-16-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-17-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-18-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-19-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-20-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-21-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-22-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-23-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-24-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-25-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-26-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-27-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-28-4": {
-    "quest": null,
-    "requiredProgress": 0
-  },
-  "fetchur-30-4": {
     "quest": null,
     "requiredProgress": 0
   }
