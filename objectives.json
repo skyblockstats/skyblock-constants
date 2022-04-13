@@ -84,7 +84,7 @@
     "requiredProgress": 0
   },
   "increase_foraging_skill_5": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "collect_birch_logs": {
@@ -120,7 +120,7 @@
     "requiredProgress": 0
   },
   "talk_to_telekinesis_applier": {
-    "quest": null,
+    "quest": "talk_to_banker",
     "requiredProgress": 0
   },
   "find_pickaxe": {
@@ -284,7 +284,7 @@
     "requiredProgress": 0
   },
   "collect_farming_resources_2": {
-    "quest": null,
+    "quest": "increase_farming_skill_5",
     "requiredProgress": 0
   },
   "talk_to_rhys": {
@@ -456,7 +456,7 @@
     "requiredProgress": 0
   },
   "collect_farm_animal_resources_2": {
-    "quest": null,
+    "quest": "increase_farming_skill_5",
     "requiredProgress": 0
   },
   "talk_to_dusk_1": {
