@@ -626,6 +626,7 @@
   "kills_diamond_guy",
   "kills_diamond_skeleton",
   "kills_diamond_zombie",
+  "kills_dojo_knockback_zombie",
   "kills_dungeon_respawning_skeleton",
   "kills_dungeon_respawning_skeleton_skull",
   "kills_dungeon_secret_bat",
