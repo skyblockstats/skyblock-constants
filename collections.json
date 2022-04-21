@@ -30,10 +30,12 @@
   "LOG:2",
   "LOG:3",
   "MAGMA_CREAM",
+  "MAGMA_FISH",
   "MELON",
   "MITHRIL_ORE",
   "MUSHROOM_COLLECTION",
   "MUTTON",
+  "MYCEL",
   "NETHER_STALK",
   "NETHERRACK",
   "OBSIDIAN",
@@ -52,6 +54,7 @@
   "REDSTONE",
   "ROTTEN_FLESH",
   "SAND",
+  "SAND:1",
   "SEEDS",
   "SLIME_BALL",
   "SPIDER_EYE",
@@ -59,6 +62,7 @@
   "STRING",
   "SUGAR_CANE",
   "SULPHUR",
+  "SULPHUR_ORE",
   "WATER_LILY",
   "WHEAT"
 ]
