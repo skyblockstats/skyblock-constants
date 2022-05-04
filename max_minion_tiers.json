@@ -2,14 +2,14 @@
   "cobblestone": 9,
   "diamond": 5,
   "redstone": 8,
-  "zombie": 5,
+  "zombie": 6,
   "jungle": 5,
   "iron": 7,
   "sugar_cane": 5,
   "magma_cube": 4,
   "clay": 11,
   "cow": 7,
-  "wheat": 4,
+  "wheat": 5,
   "cactus": 7,
   "lapis": 4,
   "coal": 8,
@@ -44,5 +44,6 @@
   "sheep": 4,
   "gold": 7,
   "revenant": 2,
-  "blaze": 5
+  "blaze": 5,
+  "voidling": 2
 }
