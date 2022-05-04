@@ -32,7 +32,7 @@
   "emerald": 11,
   "birch": 5,
   "spruce": 5,
-  "dark_oak": 5,
+  "dark_oak": 6,
   "acacia": 7,
   "oak": 5,
   "slime": 4,
@@ -46,5 +46,6 @@
   "revenant": 2,
   "blaze": 5,
   "voidling": 2,
-  "quartz": 1
+  "quartz": 1,
+  "ghast": 1
 }
