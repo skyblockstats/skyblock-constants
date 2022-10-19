@@ -156,10 +156,12 @@
   "upper_mines",
   "village",
   "void_sepulture",
+  "void_slate",
   "wasteland",
   "wilderness",
   "windmill",
   "winter_island",
   "wizard_tower",
-  "wolf_den"
+  "wolf_den",
+  "zealot_bruiser_hideout"
 ]
