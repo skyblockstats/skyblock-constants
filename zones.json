@@ -64,6 +64,7 @@
   "election_room",
   "enderdragon_boss_room",
   "enderman_sanctuary",
+  "enigma",
   "far_reserve",
   "farm",
   "farmhouse",
@@ -180,5 +181,6 @@
   "winter_island",
   "wizard_tower",
   "wolf_den",
+  "wyld_woods",
   "zealot_bruiser_hideout"
 ]
