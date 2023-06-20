@@ -137,6 +137,8 @@
   "rampart_quarry",
   "reflective_pond",
   "regalia_room",
+  "rift",
+  "rift_bastion",
   "rift_wither_cage",
   "rift_wizard_tower",
   "royal_mines",
@@ -183,6 +185,7 @@
   "winter_island",
   "wizard_tower",
   "wolf_den",
+  "wyld_pumpgrotto",
   "wyld_woods",
   "zealot_bruiser_hideout"
 ]
