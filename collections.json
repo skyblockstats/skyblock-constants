@@ -2,6 +2,7 @@
   "BLAZE_ROD",
   "BONE",
   "CACTUS",
+  "CADUCOUS_STEM",
   "CARROT_ITEM",
   "CHILI_PEPPER",
   "CLAY_BALL",
@@ -65,5 +66,6 @@
   "SULPHUR",
   "SULPHUR_ORE",
   "WATER_LILY",
-  "WHEAT"
+  "WHEAT",
+  "WILTED_BERBERIS"
 ]
