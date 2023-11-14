@@ -1476,6 +1476,7 @@
   "kills_parasite",
   "kills_pest_beetle",
   "kills_pest_cricket",
+  "kills_pest_fly",
   "kills_pest_locust",
   "kills_pest_mite",
   "kills_pest_mosquito",
